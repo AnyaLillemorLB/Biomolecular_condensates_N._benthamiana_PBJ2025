@@ -4,5 +4,5 @@ This repository contains information and resources pertaining to 'Localising enz
 - Figure2f.csv is the data used to make Figure 2f
 - Figure4c.csv is the data used to make Figure 4c
 - Figure4d.csv is the data used to make Figure 4d
-- Figure6a.csv is the date used to make Figure 6a
-For any microscopy images please contact anya.lindstrombattle@biology.ox.ac.uk
+- Figure6a.csv and Figure6abis.cs is the date used to make Figure 6a
+- For any microscopy images please contact anya.lindstrombattle@biology.ox.ac.uk
